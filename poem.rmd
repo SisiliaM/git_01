@@ -16,6 +16,13 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+The sun was shining on the sea,  
+Shining with all his might:  
+He did his very best to make  
+The billows smooth and bright —  
+And this was odd, because it was  
+The middle of the night
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
@@ -45,3 +52,16 @@ Had got no business to be there
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
+Do not go gentle into that good night,  
+Old age should burn and rave at close of day;  
+Rage, rage against the dying of the light.  
+  
+Though wise men at their end know dark is right,  
+Because their words had forked no lightning they  
+Do not go gentle into that good night.  
+  
+Good men, the last wave by, crying how bright  
+Their frail deeds might have danced in a green bay,  
+Rage, rage against the dying of the light.  
+
